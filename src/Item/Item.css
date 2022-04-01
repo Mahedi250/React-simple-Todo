@@ -1,0 +1,15 @@
+.itemContainer{
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+text-align: center;
+
+} 
+
+.donetodo{
+
+text-decoration: line-through;
+
+
+}
